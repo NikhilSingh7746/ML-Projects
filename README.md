@@ -1,6 +1,6 @@
 # ML-Projects
 
-What is Machine Learning?
+What is Machine Learning? <br>
 Machine Learning is a subset of Artificial Intelligence (AI) that enables systems to automatically learn and improve from experience without being explicitly programmed. It focuses on developing algorithms that can access data, identify patterns, and make decisions or predictions.
 
 🧠 How It Works
