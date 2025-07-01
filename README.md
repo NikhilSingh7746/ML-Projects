@@ -1,5 +1,3 @@
-# ML-Projects
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
